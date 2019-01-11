@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GUILauncher",
+            "request": "launch",
+            "mainClass": "app.GUILauncher",
+            "projectName": "Connect4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Launcher",
+            "request": "launch",
+            "mainClass": "app.Launcher",
+            "projectName": "Connect4",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Connect4"
+        }
+    ]
+}
